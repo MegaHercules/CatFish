@@ -1,0 +1,2 @@
+# CatFish
+Catfish bot BETA
